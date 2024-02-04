@@ -29,6 +29,20 @@ Describe all the application functionalities
 7) After placing the order page
 ![image](https://github.com/priyanshJ23/Tanx.fi_task/assets/92028011/7da455d8-968e-4c17-bf8a-fcd1434182aa)
 
+8) Products api done using json server  (http://localhost:5000/products)
+
+  ![image](https://github.com/priyanshJ23/Tanx.fi_task/assets/92028011/4412ad28-b56e-4135-86dc-bf24765905e8)
+
+  9) For users
+
+      ![image](https://github.com/priyanshJ23/Tanx.fi_task/assets/92028011/eca4e5c0-b1bc-4b6c-b298-12a87896cd5c)
+
+     10) For particular product
+    
+         ![image](https://github.com/priyanshJ23/Tanx.fi_task/assets/92028011/41f3acd8-9df0-4502-8a52-5576141e59f2)
+
+
+
 
 
 
