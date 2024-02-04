@@ -42,8 +42,10 @@ Describe all the application functionalities
          ![image](https://github.com/priyanshJ23/Tanx.fi_task/assets/92028011/41f3acd8-9df0-4502-8a52-5576141e59f2)
 
 
+Are there any improvements you could make to your submission?
+What would you do differently if you were allocated more time?
 
-
+If given more time, I would refine the submission by incorporating additional features for an even more robust platform. Specifically, I would focus on implementing separate pages for various products, integrating a user-friendly filter and search bar, and adding a secure payment option to enhance the overall user experience. Additionally, I would allocate time to fine-tune the design for optimal mobile responsiveness and strengthen security measures further. I would also consider adding features like user accounts for personalization, a feedback section, and promotional elements to attract and retain customers. With extended time, I could ensure each enhancement is meticulously implemented, resulting in a more comprehensive and polished solution
 
 
 
